@@ -75,7 +75,7 @@ class Home extends React.Component {
 					asteroid_id_data.push(
 						<View>
 							<ListItem>
-								<Text>NO DATA FOUND</Text>
+								<Text>NO DATA FOUND....</Text>
 							</ListItem>
 						</View>
 					);

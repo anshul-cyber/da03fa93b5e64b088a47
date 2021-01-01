@@ -6,7 +6,7 @@ const Project = createStackNavigator({
 	Home: {
 		screen: Home,
 		navigationOptions: {
-			title: 'Nasa App',
+			title: 'Nasa Application',
 			headerTintColor: '#ffffff',
 			headerStyle: {
 				backgroundColor: 'green'
